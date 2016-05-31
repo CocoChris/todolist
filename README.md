@@ -1,5 +1,2 @@
 # todolist
-A web version of todolisti
-
-
-CoCo so so cute!
+A web version of todolit
